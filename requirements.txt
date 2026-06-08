@@ -1,0 +1,4 @@
+# Core game + env (enough to play the game and run the viewer).
+numpy
+gymnasium
+pygame

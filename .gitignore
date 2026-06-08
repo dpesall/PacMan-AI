@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Training artifacts
+checkpoints/
+tb_logs/
+*.zip
+
+# Game
+highscore.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

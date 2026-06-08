@@ -1,0 +1,5 @@
+# Training stack. Installs the game deps too, then the RL libraries.
+# Note: stable-baselines3 pulls in PyTorch (~2 GB download).
+-r requirements.txt
+stable-baselines3
+tensorboard
